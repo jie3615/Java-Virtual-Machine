@@ -4,7 +4,7 @@ Java虚拟机资源汇总
 
 ## 最后更新时间
 
-2019-04-23
+2019-10-24
 
 ## 注意
 
@@ -51,6 +51,15 @@ Java虚拟机资源汇总
 > 来自infoq的翻译文章，主要是讲述了InvokeDynamic指令所起到的作用。
 
 + [Invokedynamic Java的秘密武器](https://www.infoq.cn/article/Invokedynamic-Javas-secret-weapon)
+
+### 6. Java到底是值传递还是引用传递
+>
+
+> 作者:假不理
+
+> 作者从问题的源头出发详细的分析了Java为何是值传递这一问题。
+
++ [Java为何是值传递](https://juejin.im/post/5bce68226fb9a05ce46a0476)
 
 ## 9. Java 虚拟机规范
 
@@ -284,3 +293,4 @@ jvm.go的编写者是《自己动手写Java虚拟机》的作者，参照书籍�
 + 添加[JVM简史]文章(2019-04-15)
 + 添加[添加lambda表达式]相关文章(2019-04-23)
 + 添加[InvokeDynamic]文章(2019-04-28)
++ 添加[Java值传递]文章(2019-10-24)
